@@ -60,6 +60,7 @@ HAProxy is used on the requestor's machine.
 The requestor can be an actual client or a standalone load balancing server.
 All requests go through, say, port 9000, which is where HAProxy happens to be running.
 The proxy then efficiently delegates the request to the appropriate server.
+The difference between a smart client and a software load balancer is that a software load balancer is used on all of the clients instead of there being a single load balancer at any given layer.
 
 ## The Standard Approach
 
