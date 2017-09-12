@@ -5,8 +5,10 @@ These are my collection of system design notes.
 ## Index
 
 * [Basics]
+* [Consistent Hashing]
 
 [Basics]: ./notes/basics.md
+[Consistent Hashing]: ./notes/consistent-hashing.md
 
 ## Credit
 
