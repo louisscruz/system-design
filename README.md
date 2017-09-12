@@ -6,9 +6,11 @@ These are my collection of system design notes.
 
 * [Basics]
 * [Consistent Hashing]
+* [CAP Theorem]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
+[CAP Theorem]: ./notes/cap-theorem.md
 
 ## Credit
 
