@@ -7,10 +7,12 @@ These are my collection of system design notes.
 * [Basics]
 * [Consistent Hashing]
 * [CAP Theorem]
+* [Load Balancing]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
 [CAP Theorem]: ./notes/cap-theorem.md
+[Load Balancing]: ./notes/load-balancing.md
 
 ## Credit
 
