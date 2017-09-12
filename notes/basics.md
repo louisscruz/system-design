@@ -18,3 +18,9 @@ To best solve system design problems:
 * Lead the conversation
 * Take a top-down approach
 * When the interviewer wants to move in a certain direction, leave all else behind
+
+## Questions to Ask
+
+* What are the architectural pieces that can be used?
+* How do these pieces work together?
+* How can we best utilize the pieces, and what are the best tradeoffs to make?
