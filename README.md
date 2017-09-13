@@ -10,6 +10,7 @@ These are my collection of system design notes.
 * [Load Balancing]
 * [Caching]
 * [Data Partitioning]
+* [Indices]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
@@ -17,6 +18,7 @@ These are my collection of system design notes.
 [Load Balancing]: ./notes/load-balancing.md
 [Caching]: ./notes/caching.md
 [Data Partitioning]: ./notes/data-partitioning.md
+[Indices]: ./notes/indices.md
 
 ## Credit
 
