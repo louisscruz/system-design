@@ -9,12 +9,14 @@ These are my collection of system design notes.
 * [CAP Theorem]
 * [Load Balancing]
 * [Caching]
+* [Data Partitioning]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
 [CAP Theorem]: ./notes/cap-theorem.md
 [Load Balancing]: ./notes/load-balancing.md
 [Caching]: ./notes/caching.md
+[Data Partitioning]: ./notes/data-partitioning.md
 
 ## Credit
 
