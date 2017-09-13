@@ -12,6 +12,7 @@ These are my collection of system design notes.
 * [Data Partitioning]
 * [Indices]
 * [Proxies]
+* [Queues]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
@@ -21,6 +22,7 @@ These are my collection of system design notes.
 [Data Partitioning]: ./notes/data-partitioning.md
 [Indices]: ./notes/indices.md
 [Proxies]: ./notes/proxies.md
+[Queues]: ./noes/queues.md
 
 ## Credit
 
