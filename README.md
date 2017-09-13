@@ -11,6 +11,7 @@ These are my collection of system design notes.
 * [Caching]
 * [Data Partitioning]
 * [Indices]
+* [Proxies]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
@@ -19,6 +20,7 @@ These are my collection of system design notes.
 [Caching]: ./notes/caching.md
 [Data Partitioning]: ./notes/data-partitioning.md
 [Indices]: ./notes/indices.md
+[Proxies]: ./notes/proxies.md
 
 ## Credit
 
