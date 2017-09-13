@@ -22,7 +22,7 @@ These are my collection of system design notes.
 [Data Partitioning]: ./notes/data-partitioning.md
 [Indices]: ./notes/indices.md
 [Proxies]: ./notes/proxies.md
-[Queues]: ./noes/queues.md
+[Queues]: ./notes/queues.md
 
 ## Credit
 
