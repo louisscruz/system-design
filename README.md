@@ -13,6 +13,7 @@ These are my collection of system design notes.
 * [Indices]
 * [Proxies]
 * [Queues]
+* [Redundancy and Duplication]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
@@ -23,6 +24,7 @@ These are my collection of system design notes.
 [Indices]: ./notes/indices.md
 [Proxies]: ./notes/proxies.md
 [Queues]: ./notes/queues.md
+[Redundancy and Duplication]: ./notes/redundancy-and-duplication.md
 
 ## Credit
 
