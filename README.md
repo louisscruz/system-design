@@ -14,6 +14,7 @@ These are my collection of system design notes.
 * [Proxies]
 * [Queues]
 * [Redundancy and Duplication]
+* [SQL and NoSQL]
 
 [Basics]: ./notes/basics.md
 [Consistent Hashing]: ./notes/consistent-hashing.md
@@ -25,6 +26,7 @@ These are my collection of system design notes.
 [Proxies]: ./notes/proxies.md
 [Queues]: ./notes/queues.md
 [Redundancy and Duplication]: ./notes/redundancy-and-duplication.md
+[SQL and NoSQL]: ./notes/sql-and-nosql.md
 
 ## Credit
 
